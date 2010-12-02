@@ -30,18 +30,19 @@ Subheading
 ***
 
 ## Links
-<deeds.training@google.com>
+<deeds.training@gmail.com>
 
 I get 10 times more traffic from [Google][] than from
-[Yahoo][] or [MSN][].
-
-  [google]: http://google.com/        "Google"
-  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-  [msn]:    http://search.msn.com/    "MSN Search"
+[Yahoo][] or [bing][].
 
 Visit [DEEDS Training][] for more info.
 
-  [DEEDS Training]: http://www.utoronto.ca/deeds/training/ "DEEDS Training"
+[DEEDS Training]: http://www.utoronto.ca/deeds/training/ "DEEDS Training"
+[github]: https://github.com/deedsTraining/ "DEEDS Training@GitHub"
+[email]: mailto://deeds.training@gmail.com  "deeds.training@gmail.com"
+[google]: http://google.com/        "Google"
+[yahoo]:  http://search.yahoo.com/  "Yahoo Search"
+[bing]:   http://www.bing.com/    "MSN Search"
 
-[id]: <http://example.com/>  "Optional Title Here"
-
+Visit deeds.training at [github]  
+Email [email]
